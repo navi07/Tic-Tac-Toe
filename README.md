@@ -1,2 +1,2 @@
 # Tic-Tac-Toe---Java
-Multiplayer Tic Tac Toe using java.net.Socket
+Multiplayer Tic Tac Toe game using java.net.Socket
